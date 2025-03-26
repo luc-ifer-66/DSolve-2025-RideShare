@@ -1,8 +1,4 @@
-# 🚀 DSolve-2025 Hackathon
-
-## 👥 Team Information
-Team Name: SyNtaxErr0R
-
+# 🚀 DSolve-2025 Hackathon - Team SyNtaxErr0R
 **Team Members:**
 - Sooraj V
 - [Sooraj's Github ](https://github.com/sooraj-wq) - Leader/Backend
