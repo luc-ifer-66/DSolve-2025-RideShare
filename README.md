@@ -1,16 +1,16 @@
 # 🚀 DSolve-2025 Hackathon
 
 ## 👥 Team Information
-**Team Name:** [Your Creative Team Name]  
+SyNtaxErrOr 
 
 **Team Members:**
-- Member 1 Name
-- [Member 1's Github ](https://github.com/username) - Role/Contribution
-- Member 2 Name
-- [Member 2's Github](https://github.com/username) - Role/Contribution
+- Sooraj V
+- [Sooraj's Github ](https://github.com/sooraj-wq) - Leader/Backend
+- Mareo Manoj
+- [Mareo's Github](https://github.com/luc-ifer-66) - Member/Frontend
 
 ## 💡 Project Idea
-[A clear, concise 2-3 sentence description of your project's purpose and value proposition]
+[A Rideshare app, which allows people going to the same destination, to book rides together, helping them cut travel costs, and carboon footprints. An overall great way to help people financially, and environmentally.]
 
 ## ✨ Key Features
 - 🔍 Feature 1: [Brief description]
@@ -24,9 +24,9 @@
 ## 🛠️ Tech Stack
 | Technology | Version | Purpose |
 |------------|---------|---------|
-| Tech 1     | vX.X.X  |         |
-| Tech 1     | vX.X.X  |         |
-| Tech 1     | vX.X.X  |         |
+| HTML       | v5      |         |
+| TailwindCSS| v4.0.17 |         |
+| Express.js | v4.21.2 |         |
 
 ## 🛠️ Setup Instructions
 
@@ -44,14 +44,11 @@
 ```bash
 // {Enter the commands for running here}
 ```
-
-## 🤝 How to Contribute
-We welcome contributions! Here are some ways you can help:
-
-### Good First Issues
-- [ ] Implement feature X
+### Main Tasks
+- [ ] Decide on Website Layout
 - [ ] Improve documentation
-- [ ] Fix bug #123
+- [ ] Setup Tech-Stack
+- [ ] Link Database
 
 ### Contribution Workflow
 1. Fork the repository
