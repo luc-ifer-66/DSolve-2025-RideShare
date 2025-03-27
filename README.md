@@ -6,12 +6,13 @@
 - [Mareo's Github](https://github.com/luc-ifer-66) - Member/Frontend
 
 ## 💡 Project Idea
-[A Rideshare app, which allows people going to the same destination, to book rides together, helping them cut travel costs, and carboon footprints. An overall great way to help people financially, and environmentally.]
+A Rideshare app, which allows people going to the same destination, to book rides together, helping them cut travel costs, and carboon footprints. 
+An overall great way to help people financially, and take care of their environmental responsibilities for a sustainable future.
 
 ## ✨ Key Features
-- 🔍 Feature 1: [Brief description]
-- ⚡ Feature 2: [Brief description] 
-- 🛡️ Feature 3: [Brief description]
+- 🔍 Feature 1: Match rides based on destination
+- ⚡ Feature 2: Safety features for passengers
+- 🛡️ Feature 3: Calculate prices based on destination and type of vehicle
 
 ## 🎥 Product Demo
 [![Watch the Demo](https://via.placeholder.com/300x200?text=Click+for+Demo+Video)](https://youtube.com/link-to-video)
@@ -59,3 +60,4 @@ Pending features we plan to implement:
   - Login Page.
   - Ride Sharing for more than 2 people.
   - Let users drop off during the ride, or get in between.
+  - Inform users of carbon footprint they have reduced by ride sharing.
