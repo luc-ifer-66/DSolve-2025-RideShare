@@ -54,6 +54,7 @@ Fetched API calls to detect and calculate distance between start and end points.
 Price Calculation (unique to type of vehicle)
 Database returns if ride match has been found in console.
 Ride Details unable to fetch from database as of now.
+
 Pending features we plan to implement:
   - Login Page.
   - Ride Sharing for more than 2 people.
