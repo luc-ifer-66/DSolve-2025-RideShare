@@ -40,9 +40,9 @@ Open the file directory in terminal.
 ```node app.js```
 
 ### Main Tasks
-- [ ] Decide on Website Layout
-- [ ] Add About us Page
-- [ ] Setup Tech-Stack
+- [x] Decide on Website Layout
+- [x] Add About us Page
+- [x] Setup Tech-Stack
 - [ ] Link Input Information to Database
-- [ ] Form to Input Data
-- [ ] Safety Features (basic, not linked to database)
+- [x] Form to Input Data
+- [x] Safety Features (basic, not linked to database)
